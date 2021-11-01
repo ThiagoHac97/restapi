@@ -1,0 +1,27 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Estudo de rest-api utilizando nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoHac97/restapi.git"
+  },
+  "keywords": [
+    "nodejs",
+    "rest",
+    "api"
+  ],
+  "author": "Thiago Henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiagoHac97/restapi/issues"
+  },
+  "homepage": "https://github.com/ThiagoHac97/restapi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
